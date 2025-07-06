@@ -3,7 +3,7 @@ import requests
 url = "https://api.openweathermap.org/data/2.5/weather"
 params = {
     "q": "London",
-    "appid": "8058b1cd2e087376860df2fd8b9721a4",
+    "appid": "0d2755d801d0009bdcc676798735385d",
     "units": "metric"
 }
 
